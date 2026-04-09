@@ -1,14 +1,12 @@
 ### TheDidi
 
-#### 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
+#### Web Developer
 
 ## What will you be able to find here?
-Hi! My name is Daniel or also TheDidiCZ, I am 19 years old and I am self-taught from the Czech Republic I am also interested in Web Development (Front-end - HTML, CSS, JS, | Back-end - PHP, MySQL). I shoot and I also stream on YouTube platform.
+Hi! My name is Daniel or also TheDidiCZ, I am 21 years old and I am self-taught from the Czech Republic I am also interested in Web Development (Front-end - HTML, CSS, JS, | Back-end - PHP, MySQL).
 
 ## Favourite IDE
-❤️ • `HTML`, `CSS`, `JavaScript` - [Visual Studio Code](https://code.visualstudio.com/download) <br>
-
-›> Currently learning - `PHP`, `MySQL`
+❤️ • `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL` - [Visual Studio Code](https://code.visualstudio.com/download) <br>
 
 ## Where did I work, who did I work for, or what was I working on? <br>
 ⚙️ • `[2020 - 2021]` ***Lead Builder*** & ***Lead Developer*** of [DestinyCraft.eu] <br>
