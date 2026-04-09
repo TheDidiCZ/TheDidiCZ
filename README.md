@@ -9,10 +9,10 @@ Hi! My name is Daniel or also TheDidiCZ, I am 21 years old and I am self-taught 
 ❤️ • `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL` - [Visual Studio Code](https://code.visualstudio.com/download) <br>
 
 ## Where did I work, who did I work for, or what was I working on? <br>
-⚙️ • `[2020 - 2021]` ***Lead Builder*** & ***Lead Developer*** of [DestinyCraft.eu] <br>
-⚙️ • `[2021 - 2021]` ***Owner*** of [DidiLand.eu] <br>
-⚙️ • `[2021 - 2023]` ***Server Developer*** & ***Server Technician*** of [Luna-Network.net] <br>
-⚙️ • `[2024 - ****]` ***Server Developer*** & ***Server Web Developer*** of [Royal-Hub.cz] <br>
+⚙️ • `[2020 - 2021]` From ***Lead Builder*** To ***Lead Technician*** of [DestinyCraft.eu] <br>
+⚙️ • `[2021 - 2021]` ***leader*** of [DidiLand.eu] <br>
+⚙️ • `[2021 - 2023]` From ***Server Developer*** To ***Server Technician*** of [Luna-Network.net] <br>
+⚙️ • `[2024 - 2025]` From ***Server Developer*** To ***Server Web Developer*** of [Royal-Hub.cz] <br>
 
 ## Where can you find me?
 
