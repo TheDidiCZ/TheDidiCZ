@@ -16,7 +16,7 @@ Hi! My name is Daniel or also TheDidiCZ, I am 21 years old and I am self-taught 
 
 ## Where can you find me?
 
-📸 • `Instagram` - [@thedidi.dev](https://www.instagram.com/thedidi.dev/) <br>
+📸 • `Instagram` - [Nothing]() <br>
 📌 • `Websites` - [WEB here] [Coming soon] <br>
 💬 • `Discord` - TheDidiCZ#4105 <br>
 
